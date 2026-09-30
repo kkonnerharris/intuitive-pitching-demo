@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[1096,[],""]
+3:I[8960,["39","static/chunks/app/error-46c0af0ce7ce6ec0.js"],"default"]
+4:I[6958,[],""]
+5:I[7130,["92","static/chunks/92-31e5a4b9b73abe86.js","364","static/chunks/app/workspace/page-6cfbe97e3641941a.js"],"WorkspaceApp"]
+6:I[3861,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[3861,[],"ViewportBoundary"]
+c:I[3861,[],"MetadataBoundary"]
+e:I[1924,[],"default",1]
+:HL["/intuitive-pitching-demo/_next/static/css/7664c9c700c1cc48.css","style"]
+:HL["/intuitive-pitching-demo/_next/static/css/4be80b91be5f79ee.css","style"]
+0:{"P":null,"c":["","workspace",""],"q":"","i":false,"f":[[["",{"children":["workspace",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/intuitive-pitching-demo/_next/static/css/7664c9c700c1cc48.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_889679 __variable_6847b3","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$3","errorStyles":[],"errorScripts":[],"template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"style":{"minHeight":"100svh","display":"grid","placeItems":"center","padding":24},"children":["$","div",null,{"style":{"maxWidth":440,"textAlign":"center"},"children":[["$","p",null,{"style":{"letterSpacing":"0.18em","fontSize":12,"fontWeight":600,"color":"var(--ink-faint)"},"children":"INTUITIVE PITCHING"}],["$","h1",null,{"style":{"fontFamily":"var(--ip-display)","textTransform":"uppercase","fontSize":40,"margin":"12px 0"},"children":"Page not found"}],["$","p",null,{"style":{"color":"var(--ink-soft)"},"children":"That link doesn't go anywhere."}],["$","p",null,{"style":{"marginTop":20,"display":"flex","gap":20,"justifyContent":"center"},"children":[["$","a",null,{"href":"/intuitive-pitching-demo/","style":{"color":"var(--ink)"},"children":"Home"}],["$","a",null,{"href":"/intuitive-pitching-demo/workspace/","style":{"color":"var(--accent)"},"children":"Open the workspace"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","$L5",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/intuitive-pitching-demo/_next/static/css/4be80b91be5f79ee.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"HiJfrpEg6gEyNLE2SyJnl"}
+f:[]
+9:"$Wf"
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+10:I[2624,[],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"Workspace · Intuitive Pitching"}],["$","meta","1",{"name":"description","content":"Every pitch, every session, one athlete record. An independent pitching development workspace."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/intuitive-pitching-demo/favicon.ico?603d046c9a6fdfbb","type":"image/x-icon","sizes":"16x16"}],["$","$L10","4",{}]]
