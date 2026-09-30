@@ -1,5 +1,5 @@
 :HL["/intuitive-pitching-demo/_next/static/css/3577734d2bcdc282.css","style"]
 :HL["/intuitive-pitching-demo/_next/static/css/33bb815b083901fa.css","style"]
-:HL["/intuitive-pitching-demo/_next/static/css/616270eaec81ab50.css","style"]
+:HL["/intuitive-pitching-demo/_next/static/css/766e4fd03ea75f3a.css","style"]
 :HL["/intuitive-pitching-demo/landing/softball-hero.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"CtBQjAsItegI6Q3Pgnc2L"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"hFCm73h1PgBsnRo3wrCfs"}
